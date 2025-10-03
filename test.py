@@ -7,7 +7,7 @@ class MyApp(QWidget):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle("텍스트에디트 + 버튼 예제")
+        self.setWindowTitle("리모컨")
         self.setGeometry(200, 200, 400, 300)  # 창 위치와 크기 설정
 
         # 메인 레이아웃 (수직)
